@@ -1,0 +1,11 @@
+table, tr, td, th{
+    border: solid 1px black;
+}
+tr, td{
+    width: 100px; 
+    
+}
+th{
+    background-color: blueviolet;
+}
+tr:hover {background-color: blueviolet;}
